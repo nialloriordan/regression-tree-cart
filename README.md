@@ -12,7 +12,7 @@ The purpose of this repository is to implement a regression tree similar to scik
 
 The notebook for training a regression tree using numpy: [Numpy Regression Tree Notebook](notebooks/numpy_regression_tree.ipynb). 
 
-The notebook for training a regression tree using scikit-learn [Numpy Regression Tree Notebook](notebooks/numpy_regression_tree.ipynb).
+The notebook for training a regression tree using scikit-learn [Scikit-learn Regression Tree Notebook](notebooks/sklearn_regression_tree.ipynb).
 
 ## Quick Start
 
