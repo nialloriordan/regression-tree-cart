@@ -11,6 +11,7 @@ Implement a regression tree and grid search with k fold cross validation from sc
 The purpose of this repository is to implement a regression tree similar to scikit-learn's `DecisionTreeRegressor`. In addition this repository also implements grid search using k fold cross validation to determine the best model parameters. This is similar to scikit-learn's `GridSearchCV`.
 
 The notebook for training a regression tree using numpy: [Numpy Regression Tree Notebook](notebooks/numpy_regression_tree.ipynb). 
+
 The notebook for training a regression tree using scikit-learn [Numpy Regression Tree Notebook](notebooks/numpy_regression_tree.ipynb).
 
 ## Quick Start
