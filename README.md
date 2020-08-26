@@ -43,7 +43,5 @@ Follow these steps to run any notebooks or test the environment:
     * `numpy_regression_tree.ipynb`: notebook to train a regression tree using numpy
     * `sklearn_regression_tree.ipynb`: notebook to train a regression tree using scikit-learn
 * `.gitignore`: text file that tells Git which files or folders to ignore in a project
-* `Dockerfile`: for building the regression tree image
-* `Makefile`: used for building and running the regression tree image from the `Dockerfile`
 * `requirements.txt`: list of python packages required to run the code in all of the python scripts and notebooks
 </details>
